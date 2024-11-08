@@ -77,4 +77,10 @@ The app requires:
 - **Stop Recording**: Tap the "Stop Recording" button to stop recording manually. The recording will automatically save.
 - **Play Latest Recording**: Tap the "Play Latest Recording" button to play back the most recent recording.
 
+## Screenshot
+<img width="510" alt="Screenshot 2024-11-08 at 20 14 27" src="https://github.com/user-attachments/assets/d4c5c75e-5bae-4118-afe7-ea90de7e35bb">
+
+
+
+
 ---
